@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#define ll_i long long int
+#define ll_i long long int			// Using a long long int variable due to the constraints of the problem.
 
 static ll_i max_pair_product(ll_i *dataset, int n);
 

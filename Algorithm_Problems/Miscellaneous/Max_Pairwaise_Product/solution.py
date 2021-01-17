@@ -1,4 +1,3 @@
-C
 
 def max_pair_product(dataset):
 	
