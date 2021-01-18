@@ -45,6 +45,7 @@ The Fibonacci number Fn.
 The Fibonacci numbers are a sequence of numbers which are obtained using the following function:
 
 > 	F(n) = n			when n = 0 or n = 1;
+>
 > 	F(n) = F(n-1) + F(n-2)		when n > 1;
 
 
