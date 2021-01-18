@@ -5,3 +5,5 @@ gcc -pipe -O2 -std=c11 <filename> -lm
 
 C++ compilation:
 g++ -pipe -O2 -std=c++14 <filename> -lm
+
+The Python version used is Python3.
