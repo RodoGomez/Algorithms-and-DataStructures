@@ -16,7 +16,7 @@ The maximum possible pairwaise product.
 
 2 ≤ n ≤ 2 * 10^5 ; 0 ≤ a_{1} , . . . , a_{n} ≤ 2 10^5
 
-## Sample
+## Sample 1
 
 * Input:
 
@@ -26,6 +26,19 @@ The maximum possible pairwaise product.
 
 * Output:
 
-> 6
+> 6 
+(2 x 3)
 
 
+## Sample 2
+
+* Input:
+
+> 8
+>
+> 21 5 4 10 6 8 54 9 
+
+* Output:
+
+> 1,134 
+(21 x 54)
