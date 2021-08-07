@@ -66,7 +66,7 @@ This algorithm is not efficient because the amount of computations it has to per
 
 The faster algorithm for solving this problem is based on the idea of creating the sequence of Fibonacci numbers from 0 to n and store the values in an array/list so the values are there and there is no need for recursive calls. This algorithm is much much faster since the sequence is created as the algorithm goes and just return the last item in the sequence since it is actually F(n).
 
-**NOTE:** Here we are using the *table solution approach*, this solution is more efficient than the naive algorithm BUT, whereas this solution is **time-complexity efficient**, is **space-complexity inefficient.** 
+**NOTE:** Here we are using the *table solution approach*, this solution is more efficient than the naive algorithm BUT, whereas this solution is **time-complexity efficient**, it actually is **space-complexity inefficient.** The best approach and solution is using a **Dynamic Programming** implementation of the solution.
 
 Algorithm:
 

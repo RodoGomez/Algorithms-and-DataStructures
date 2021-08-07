@@ -4,7 +4,7 @@
 
 This repository will be composed of two major sections, one for algorithms and another one for data structures.
 
-## Algorithms
+## Algorithms.
 
 This section will contain a set of different algorithm problems and their solutions written in C, C++ and Python.
 The solutions provided in this section will be related to:
@@ -19,5 +19,5 @@ When required, the challenges will contain **files with the theorical concepts**
 ## Data Structures.
 
 This section will contain the implementation of different data structures used in computer science.
-The implementation will be provided in C and C++.
+The implementation will be provided in C and C++ and Python.
 
